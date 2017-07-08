@@ -7,3 +7,4 @@ cache:
     - "node_modules"
 script:
   - ./scripts/build.sh
+  - ./scripts/test.sh
