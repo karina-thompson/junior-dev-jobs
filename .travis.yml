@@ -1,4 +1,7 @@
 language: node_js
+node_js:
+  - "node"
+# use most current stable node version, can specify a version if you need to
 cache:
   directories:
     - "node_modules"
