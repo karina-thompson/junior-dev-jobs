@@ -8,3 +8,4 @@ install: true
 script: 
   - ./build/linux/build.sh
   - ./build/linux/test.sh
+
