@@ -15,7 +15,7 @@ script:
 
 deploy:
   provider: "heroku"
+    app: "karina-jdjobs-dev"
     api_key:
       secure: "hkgY+wCRkQsUPgdwdjoMbjudhc7zlZaGa0J81e4+1jXcfD7OPCvZGSSfjmpLw/lq7YJwBu+uKwIzTlxCR3tC9S5Q6MJWweYwvsLqVQ1Ng2LqGYu9GxAph7iAYsaj4ERZPoSeBD9XTBShPCHYc4ILjrhUxafzAbqqtopHrntQFXBKlk4f4uxGtgN/nN3nnXjZWADEKP+FxRNcz6dpgdENDAKLGYlH41PwSiRwSa3zuowf+8W02uJcG6ALoqzXJxURy+uvuQ+LmhZDw7ng3bhbwLirYQChCmrnQwc+JRoLNyh4fXTpyoSQLv1sJlummjSo9IvqZBM3qFUwQI0mmQm0ZwHzX2i+xhqnOVvQZdAGXuUhUvKBAldwhKXJJQ9KErY0dcoismW3gM6lS3hWUCVJQKsnO7F0zw6m8xzBOZBWCCUSs0HffsAFd8/DwBV8pv1sLasDq17YW6fIN4gCZFJBIuBWt56lkz4DtnZlZgxA1K4F1TPU1vjD9NG7FRtZ+EAsUm3gyuENdc3yif4XWBjwVqU/A6RvQOcf6o2VNt4GnkQWfMdnvdEKeWjgyi7634XHRbhnKyGI7xFqwEvo6JGd4yvLkP5KPJtAT/rpXQ5gCXTS03Y6sC+Q2GgLV2XCp24DX7Z0uu+PJ5DiCxsvGMHhW9EIAVuQAYKlKq+E4DxnyKk="
-    app: "karina-jdjobs-dev"
  
